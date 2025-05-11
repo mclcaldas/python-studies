@@ -1,0 +1,4 @@
+# %%
+nome = "Marcelo"
+print(nome)
+# %%
